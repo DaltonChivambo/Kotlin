@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d50d88-98d6-4d22-95d6-3edb6b07fc73" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="b0d50d88-98d6-4d22-95d6-3edb6b07fc73" name="Changes" comment="Variables mutable(var) and immutable(val)">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Variable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Variable.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666734370537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Variables mutable(var) and immutable(val)">
+      <created>1666734727618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666734727618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Variables mutable(var) and immutable(val)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables mutable(var) and immutable(val)" />
   </component>
 </project>

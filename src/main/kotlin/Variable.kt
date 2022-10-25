@@ -1,4 +1,3 @@
-class Variable {
-
+fun main(args: Array<String>){
 
 }
