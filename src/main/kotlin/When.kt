@@ -1,3 +1,6 @@
+
+
+
 fun main(args: Array<String>){
 
 
@@ -9,4 +12,12 @@ fun main(args: Array<String>){
         3 -> println("StrawBerry Juice")
         else -> println("Invalid option")
     }
+
+    var juice = when(option){
+        1 -> "Orange"
+        2 -> "Grape"
+        3 -> "StrawBerry"
+        else -> ""
+    }
+    println(juice)
 }

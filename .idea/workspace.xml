@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d50d88-98d6-4d22-95d6-3edb6b07fc73" name="Changes" comment="Repetition structure" />
+    <list default="true" id="b0d50d88-98d6-4d22-95d6-3edb6b07fc73" name="Changes" comment="When" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +38,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RepetitionStructureKt">
+  <component name="RunManager" selected="Kotlin.WhenKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="Kotlin" />
@@ -67,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.RepetitionStructureKt" />
         <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.VariableKt" />
@@ -120,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666754945364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Repetition structure">
+      <created>1666754968566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666754968566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="When">
+      <created>1666755233003</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666755233003</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +161,7 @@
     <MESSAGE value="Variables mutable(var) and immutable(val)" />
     <MESSAGE value="Static arrays" />
     <MESSAGE value="Repetition structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repetition structure" />
+    <MESSAGE value="When" />
+    <option name="LAST_COMMIT_MESSAGE" value="When" />
   </component>
 </project>
