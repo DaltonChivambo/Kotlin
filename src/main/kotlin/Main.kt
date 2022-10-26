@@ -8,7 +8,8 @@ fun main(args: Array<String>){
     println(name)
 
     //immutable
-
     val yearBirth = 2002;
     println(yearBirth)
+
+    println("Hi my name is $name, i have $yearBirth years old!")
 }
