@@ -11,5 +11,4 @@ fun main(){
 
     println("Person 1: ${person.name} have ${person.age} years old")
     println("Person 2: ${person2.name} have ${person.age} years old")
-
 }
