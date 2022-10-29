@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0d50d88-98d6-4d22-95d6-3edb6b07fc73" name="Changes" comment="making class in java and kotlin">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Class/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basic/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/Array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basic/Funtion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/Funtion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basic/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basic/RepetitionStructure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/RepetitionStructure.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basic/Variable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/Variable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basic/When.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/classe/Person.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/classe/Person1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +71,7 @@
       </method>
     </configuration>
     <configuration name="PersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.PersonKt" />
+      <option name="MAIN_CLASS_NAME" value="classe.PersonKt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667073457957</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="making class in java and kotlin">
+      <created>1667074145244</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667074145244</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
