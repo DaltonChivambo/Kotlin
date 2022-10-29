@@ -23,7 +23,6 @@ fun max(a:Int, b:Int):Int {
 //Simplify the function
 fun max2(a:Int, b:Int): Int = if(a>b)a else b
 
-
 fun max3(a:Int, b:Int) = if(a>b)a else b
 
 fun max4(a:Int, b:Int) = 10
