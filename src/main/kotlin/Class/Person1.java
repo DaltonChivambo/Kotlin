@@ -1,6 +1,6 @@
 package Class;
 
-public class Person {
+public class Person1 {
     private String name;
     private int age;
 
