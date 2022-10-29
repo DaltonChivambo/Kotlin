@@ -1,7 +1,4 @@
-import java.util.Arrays
-
-
-fun main(args: Array<String>){
+fun main() {
 
     var shoppingList = arrayOf("Rice","Bean","Milk","Potato","Banana","Juice")
     println(shoppingList[2])

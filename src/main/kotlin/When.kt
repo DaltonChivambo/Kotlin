@@ -1,11 +1,6 @@
 
-
-
-fun main(args: Array<String>){
-
-
-    var option = 1
-
+fun main() {
+    var option = 3
     when(option){
         1 -> println("Orange Juice")
         2 -> println("Grape Juice")
@@ -20,4 +15,13 @@ fun main(args: Array<String>){
         else -> ""
     }
     println(juice)
+
+    var reference = when(option){
+        1 -> "Mark I"
+        2 -> "BT 50"
+        3 -> "Defender"
+        else -> ""
+    }
+    print(reference)
 }
+
