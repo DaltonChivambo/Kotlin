@@ -1,3 +1,4 @@
+package Class
 
 class Person (
     val name: String,
