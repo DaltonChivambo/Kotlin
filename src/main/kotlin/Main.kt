@@ -12,4 +12,10 @@ fun main(args: Array<String>){
     println(yearBirth)
 
     println("Hi my name is $name, i have $yearBirth years old!")
+
+
+
+    println("The sum is: ${sum(10,10)}")
 }
+
+fun sum(a:Int,b:Int) =  a+b
